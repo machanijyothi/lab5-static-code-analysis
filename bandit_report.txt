@@ -1,4 +1,4 @@
-Run started:2025-10-27 07:05:45.371227
+Run started:2025-10-27 11:09:24.673208
 
 Test results:
 >> Issue: [B110:try_except_pass] Try, Except, Pass detected.
@@ -24,7 +24,7 @@ Test results:
 --------------------------------------------------
 
 Code scanned:
-	Total lines of code: 50
+	Total lines of code: 133
 	Total lines skipped (#nosec): 0
 	Total potential issues skipped due to specifically being disabled (e.g., #nosec BXXX): 0
 
