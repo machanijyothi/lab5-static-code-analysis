@@ -26,10 +26,7 @@ The goal is to perform static analysis on a Python file using tools like **Pylin
 
 ---
 
-## 💡 Reflection
-See [`reflection.md`](reflection.md) for detailed responses about insights, improvements, and learning outcomes.
 
----
 
 ## ✅ How to Run
 ```bash
